@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"golang.org/x/net/http2"
+	"github.com/JoseNaveen/net/tree/master/http2"
 )
 
 // Attacker is an attack executor which wraps an http.Client
